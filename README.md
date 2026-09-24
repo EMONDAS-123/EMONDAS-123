@@ -8,10 +8,10 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Aspiring software engineer, working towards **IIT**
-- 💻 Currently building **GrowwIT** — an RPG-style self-improvement app in Java (Sketchware Pro)
-- 🌱 Learning **Python** alongside Java
-- 🎯 Long-term goal: build something big, aim high, never stop learning
+- 🎓 Aiming for IIT
+- 💻 Building **GrowwIT** (Java, Sketchware Pro)
+- 🌱 Learning Python
+- 🎯 Dream big, build big
 
 ---
 
