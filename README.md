@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Emon 👋</h1>
-<h3 align="center">Aspiring Software Engineer | Dreaming Big for IIT 🎯</h3>
+### Hi there, I'm Emon 👋
+**Aspiring Software Engineer | Dreaming Big for IIT 🎯**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Building+cool+stuff+with+Java+%26+Python;Working+towards+IIT;Future+Billionaire+in+the+making+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=00F7FF&center=true&vCenter=true&width=440&lines=Building+cool+stuff+with+Java+%26+Python;Working+towards+IIT;Future+Billionaire+in+the+making+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
